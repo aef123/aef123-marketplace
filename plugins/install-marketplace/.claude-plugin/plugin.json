@@ -1,0 +1,8 @@
+{
+  "name": "install-marketplace",
+  "description": "Skill to discover and install popular plugin marketplaces for Claude Code CLI and GitHub Copilot CLI, including the Anthropic official marketplace and other community marketplaces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aef123"
+  }
+}

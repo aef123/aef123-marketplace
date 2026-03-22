@@ -1,11 +1,9 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "aef123-marketplace",
+  "description": "Private plugin marketplace for Claude Code CLI and GitHub Copilot CLI",
   "owner": {
     "name": "aef123"
-  },
-  "metadata": {
-    "description": "Private plugin marketplace for Claude Code CLI and GitHub Copilot CLI",
-    "version": "1.0.0"
   },
   "plugins": [
     {
