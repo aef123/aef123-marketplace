@@ -1,0 +1,23 @@
+{
+  "name": "aef123-marketplace",
+  "owner": {
+    "name": "aef123"
+  },
+  "metadata": {
+    "description": "Private plugin marketplace for Claude Code CLI and GitHub Copilot CLI",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "install-marketplace",
+      "description": "Skill to discover and install popular plugin marketplaces for Claude Code CLI and GitHub Copilot CLI, including the Anthropic official marketplace and other community marketplaces.",
+      "version": "1.0.0",
+      "source": "./plugins/install-marketplace",
+      "author": {
+        "name": "aef123"
+      },
+      "keywords": ["marketplace", "install", "claude", "copilot", "mcp", "setup"],
+      "category": "tooling"
+    }
+  ]
+}
